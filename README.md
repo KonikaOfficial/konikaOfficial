@@ -16,7 +16,7 @@ Professionally I am a Software Engineer. love to do Coding & Designing. Currentl
 
 [![GitHub](icon/github.png)](https://github.com/KonikaOfficial)  [![Twitter](icon/twitter.png)](https://twitter.com/Konika_ferdous)  [![LinkedIn](icon/linkedin.png)](https://www.linkedin.com/in/konika-ferdous/) [![Instagram](icon/instagram.png)](https://www.instagram.com/konikaferdous/)
 
-
+<!--
 <br>
 <br>
 <br>
@@ -25,7 +25,7 @@ Professionally I am a Software Engineer. love to do Coding & Designing. Currentl
   
 </p>
 <br>
-<!--
+
 **KonikaOfficial/konikaOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
