@@ -14,7 +14,7 @@ Professionally I am a Software Engineer. love to do Coding & Designing. Currentl
 
 ## 📫 Contact Me on Social Media
 
-[![GitHub](icon/github.png)](https://github.com/KonikaOfficial)  [![Twitter](icon/twitter.png)](https://twitter.com/Konika_ferdous)  [![LinkedIn](icon/linkedin.png)](https://www.linkedin.com/in/konika-ferdous/) [![Instagram](icon/instagram.png)](https://www.instagram.com/konikaferdous/)
+[![GitHub](icon/github.png)](https://github.com/KonikaOfficial)  [![Twitter](icon/twitter.png)](https://twitter.com/Konika_ferdous)  [![LinkedIn](icon/linkedin.png)](https://www.linkedin.com/in/konika-ferdous/) [![Instagram](icon/instagram.png)](https://www.instagram.com/konikaferdous/) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 <!--
 <br>
