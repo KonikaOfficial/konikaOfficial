@@ -3,10 +3,10 @@
 # Hey there, folks! I'm **Konika Ferdous**. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## 📫 Contact Me on Social Media
 
-[![GitHub](icons/github.png)](https://github.com/KonikaOfficial)
-[![Twitter](icons/twitter.png)](https://twitter.com/Konika_ferdous)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/konika-ferdous/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/konikaferdous/)
+[![GitHub](icon/github.png)](https://github.com/KonikaOfficial)
+[![Twitter](icon/twitter.png)](https://twitter.com/Konika_ferdous)
+[![LinkedIn](icon/linkedin.png)](https://www.linkedin.com/in/konika-ferdous/)
+[![Instagram](icon/instagram.png)](https://www.instagram.com/konikaferdous/)
 
 <!--
 **KonikaOfficial/konikaOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
