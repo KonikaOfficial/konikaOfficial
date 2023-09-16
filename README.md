@@ -2,7 +2,7 @@
 
 # Hey there, folks! I'm **Konika Ferdous**. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 🎨 Passionate UI/UX Designer | Crafting Digital Experiences that Delight Users ✨
-Professionally I'm a dedicated UI/UX designer with a passion for creating intuitive and visually appealing digital interfaces. With 2 years of experience in the industry, I thrive on transforming complex ideas into user-friendly designs that drive engagement and satisfaction. Also love to do Coding. Contributing in Open-Source will be Awesome.
+Professionally I'm a UI/UX designer with a passion for creating intuitive and visually appealing digital interfaces. With 2 years of experience in the industry, I thrive on transforming complex ideas into user-friendly designs that drive engagement and satisfaction. Also love to do Coding. Contributing in Open-Source will be Awesome.
 
 
 
